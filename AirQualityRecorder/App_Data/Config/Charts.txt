@@ -1,0 +1,3 @@
+﻿TestChart1,Line,Days => PM2.5,Tovc,甲醛
+TestChart2,Column,Days => PM2.5,Tovc,甲醛
+TestChart3,Pie,Days => PM2.5,Tovc,甲醛

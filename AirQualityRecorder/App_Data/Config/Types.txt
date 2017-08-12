@@ -1,0 +1,7 @@
+﻿PM2.5,ug/m3
+Tovc,ppm
+甲醛,ppm
+臭氧,ppb
+温度,℃
+湿度,%
+AQI,
